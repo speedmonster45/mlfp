@@ -1,1 +1,2 @@
-in this file set, utilize the CNN_module_processor.py file to run the code, to download the data set use go [here](https://drive.google.com/drive/folders/1zgUpeExPDFNH8qtgjFvstTi95-nSHQl0?usp=sharing) to run the code it will ouput the epoch and accuracy rating of each epoch
+in this file set, utilize the CNN_module_processor.py file to run the code, the data set can downloaded [here](https://drive.google.com/drive/folders/1zgUpeExPDFNH8qtgjFvstTi95-nSHQl0?usp=sharing) 
+the code it will ouput the epoch and accuracy rating of each epoch
